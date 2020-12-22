@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Denis Pashkov v №19</string>
+    <string name="button_1">Купить</string>
+    <string name="imageView">imageView</string>
+    <string name="tvText">Вариант 19</string>
+    <string name="radioButton_1">Принять</string>
+    <string name="radioButton_2">Отказатся</string>
+</resources>

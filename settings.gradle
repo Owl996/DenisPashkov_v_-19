@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Denis Pashkov v №19"
